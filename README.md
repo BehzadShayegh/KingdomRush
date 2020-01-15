@@ -1,3 +1,3 @@
 This is the first project of the Advanced Programming course. It is maily about the basic concepts of C++ language practiced in a game. We used a modified version of SDL library called RSDL in order to visualize the code. Here is the github link for RSDL libray provided by out instructor: "https://github.com/UTAP/RSDL". The game is called Kingdom Rush and the player must insert various towers in fixed locations. Enemies will appear automatically based on a given algorithm. Note that we were instructed not to follow object/function programming in this project.
 In order to compile the code you should run the following command before:
-sudo apt-get install libsdl2-dev
+sudo apt-get install libsdl2-dev libsdl2-image-dev libsdl2-ttf-dev
